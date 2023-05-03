@@ -4,7 +4,7 @@ Hello my name is muhye aldeen
 i was graduated from BAU 
 and im happy to to share this first repo for me ^_^ .  
 
-
+<p>
 # I learned from this paragraph some things:
 1- 	All developers must understand and know what the application or website must help the user not being hard to use as possible as they can.
 
@@ -22,7 +22,8 @@ and im happy to to share this first repo for me ^_^ .
 
 8-	The documentation part of your code must help you in the later to know why I write this code in this way and what this line doing. 
  
+</p>
 
 
-  ![thank for read that and see you later ^_^](https://www.google.com/search?q=cute&rlz=1C1GCEU_en-GBJO1053JO1054&sxsrf=APwXEddo31w-ssmPBp7L6S4fL7THeqZRPA:1683099749657&source=lnms&tbm=isch&sa=X&ved=2ahUKEwilmsyV09j-AhVhR_EDHXfBA8AQ_AUoAXoECAMQAw&biw=1920&bih=937&dpr=1#imgrc=-P28W1gr-wTmiM)
+  ![Thank you for reading the summary of what you learned from the paragraph and see you later ^_^](https://img.freepik.com/premium-vector/cute-bear-with-bubble-tea-cartoon-vector-illustration_42750-816.jpg?w=2000)
 
