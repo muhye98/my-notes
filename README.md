@@ -24,6 +24,7 @@ and im happy to to share this first repo for me ^_^ .
  
 </p>
 
+# Thank you for reading the summary of what you learned from the paragraph and see you later ^_^
 
-  ![Thank you for reading the summary of what you learned from the paragraph and see you later ^_^](https://img.freepik.com/premium-vector/cute-bear-with-bubble-tea-cartoon-vector-illustration_42750-816.jpg?w=2000)
+  ![](https://img.freepik.com/premium-vector/cute-bear-with-bubble-tea-cartoon-vector-illustration_42750-816.jpg?w=2000)
 
